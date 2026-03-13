@@ -1,4 +1,4 @@
 I added this file for the first time!
 I made some change that will raise a conflict!
-
 I want to make another change but I am not aware that this file was changed by others in the cloud/GitHub repository!
+I fixed the change and its ready to send to GitHub.
