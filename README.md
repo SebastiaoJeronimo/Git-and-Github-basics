@@ -28,11 +28,11 @@ This repository is going to be used for instructive purposes to learn the basics
 
 | Command | Description |
 | :--- | :--- |
-| **`git clone <url>`** | [cite_start]Copies a project from a GitHub repository to your computer[cite: 79, 80]. |
-| **`git add <file>`** | [cite_start]Chooses specific changes you want to prepare for an update[cite: 81, 99]. |
-| **`git commit -m "note"`** | [cite_start]Confirms your changes with a descriptive note[cite: 82, 83]. |
-| **`git push`** | [cite_start]Sends your updated local changes to the GitHub repository[cite: 84, 85]. |
-| **`git pull`** | [cite_start]Downloads the latest version of the code if you are missing updates[cite: 87, 88]. |
+| **`git clone <url>`** | Copies a project from a GitHub repository to your computer. |
+| **`git add <file>`** | Chooses specific changes you want to prepare for an update. |
+| **`git commit -m "note"`** | Confirms your changes with a descriptive note. |
+| **`git push`** | Sends your updated local changes to the GitHub repository. |
+| **`git pull`** | Downloads the latest version of the code if you are missing updates. |
 | **`git status`** | Used to check which files are modified or untracked locally. |
 
 ---
